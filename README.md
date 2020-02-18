@@ -4,7 +4,7 @@
 
 #i have to measure every month the results of a market team
 
-#i use a fill parameters for that action, like numbers of piaces, kind, type and who call for those pieces
+#i use a fill parameters for that action, like numbers of pieces, kind, type and who call for those pieces
 
 #my nexts steps is create a Pincipal component analysis to identefy the caracteristic of each person in the team
 
